@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What are you looking for on vacation?",
+        "option1": "Nightlife",
+        "option2": "Art and history",
+        "option3": "Sports",
+        "option4": "Foodie"
+    },
+    
+    {
+        "question": "If you close your eyes, where do you imagine yourself?",
+        "option1": "On a mountain peak",
+        "option2": "In a busy city",
+        "option3": "On an island",
+        "option4": "Doesn't matter"
+    },
+    
+    {
+        "question": "What season do you prefer?",
+        "option1": "Summer",
+        "option2": "Spring",
+        "option3": "Autumn",
+        "option4": "Winter"
+    },
+    
+    {
+        "question": "If you had to practice any sports, which one would you rather chose?",
+        "option1": "I'd rather do nothing",
+        "option2": "Hiking",
+        "option3": "Canoeing",
+        "option4": "Biking"
+    },
+    
+    {
+        "question": "What would you save up money on?",
+        "option1": "Transportation",
+        "option2": "Basic expenses",
+        "option3": "Housing",
+        "option4": "Guided tour"
+    },
+    
+    {
+        "question": "What's your main reason to go on a trip?",
+        "option1": "To get away from my everyday life",
+        "option2": "To find new places",
+        "option3": "To party",
+        "option4": "To get to know new people"
+    },
+    
+    {
+        "question": "What kind of things could never be missing in your suitcase?",
+        "option1": "Books and playing cards",
+        "option2": "Swimwear and beach tennis rackets",
+        "option3": "A map and a guidebook",
+        "option4": "Boots and thermal clothing"
+    },
+    
+    {
+        "question": "What is your ideal night out like?",
+        "option1": "Party all night",
+        "option2": "Bonfire under the stars",
+        "option3": "Having a drink at the bar",
+        "option4": "Hot beverage near a fireplace"
+    },
+    
+    {
+        "question": "Which of the following describes you best as a traveler?",
+        "option1": "Adventurer",
+        "option2": "Party addict",
+        "option3": "Travel blogger",
+        "option4": "Relaxation enthuasiast"
+    },
+    
+    {
+        "question": "Which one of these situations would irritate you the most?",
+        "option1": "If it rained",
+        "option2": "If I felt lost",
+        "option3": "If I got bored",
+        "option4": "if I couldn't discover new things"
+    }
+    
+]
